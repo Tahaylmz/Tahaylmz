@@ -3,7 +3,7 @@
 <img src="https://github.com/Tahaylmz/Tahaylmz/blob/main/images/TahaylmzGithub.gif?raw=true" href="https://github.com/Tahaylmz" alt="Hello World!" width="625"/> <br>
 <img src="https://github.com/Tahaylmz/Tahaylmz/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Tahaylmz" alt="Taha Yilmaz"  width="550"/><br>
 
-<p><strong>Software Engineer and Developer
+<p><strong>Flutter Android / IOS Developer
 <br>I'm coding the future!
 <br><br> I'm listening now 🎧  </strong></p>
 
@@ -17,7 +17,9 @@
 
 <hr></hr>
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
