@@ -51,7 +51,6 @@ Currently coding the future — one widget at a time.
 
 ### 🧭 Let's Connect
 - 📬 Telegram: [@tahayilmazzz](https://t.me/tahayilmazzz)
-- 🌐 GitHub: [Tahaylmz](https://github.com/Tahaylmz)
 
 ---
 
